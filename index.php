@@ -15,7 +15,7 @@
 
 <main class="main">
   <h1>PÁGINA DE MUESTRA DEL HOTEL</h1>
-  <h2 class="subtitle">Página de prueba y demostración</h2>
+  <h2 class="subtitle">HTML5, CSS3 y JAVASCRIPT</h2>
 </main>
 
 
